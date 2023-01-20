@@ -1,0 +1,21 @@
+.botonX{
+    float: right ;
+    color: black;
+    background-color: red;
+}
+
+.species.gender{
+    color:green;
+
+    
+}
+
+.card{
+    margin:auto;
+    display: table;
+    align-items: center;
+    margin-bottom: 2rem;
+    border:1px solid;
+    border-radius: 1rem;
+    
+}
